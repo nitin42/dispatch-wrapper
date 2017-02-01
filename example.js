@@ -23,7 +23,7 @@ let Fetcher = (api, dispatch) => {
   });
 }
 
-// Async action creators using `redux-thunk`
+// Action creators using `redux-thunk`
 let fetch_data = (api) => {
   return (dispatch) => {
     return Fetcher(api, dispatch);
