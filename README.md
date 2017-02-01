@@ -1,4 +1,5 @@
 # dispatch-wrapper
+[![Build Status](https://travis-ci.org/nitin42/dispatch-wrapper.svg?branch=master)](https://travis-ci.org/nitin42/dispatch-wrapper)
 
 > A wrapper which makes it easy to dispatch the payload received from a JSON api in your action creators.
 
