@@ -29,7 +29,7 @@ let fetch_data = (api) => {
   }
 }
 ```
-Check the complete example [here]()
+Check the complete example [here](https://github.com/nitin42/dispatch-wrapper/blob/master/example.js)
 
 ## API
 #### wrapper(api, cb)
