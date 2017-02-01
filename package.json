@@ -1,0 +1,24 @@
+{
+  "name": "dispatch-wrapper",
+  "version": "0.0.1",
+  "description": "A request wrapper which makes it easy to dispatch the payload received from a JSON api in your action creators.",
+  "main": "main.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "keywords": [
+    "wrapper",
+    "request",
+    "dipatch"
+  ],
+  "author": "Nitin Tulswani <tulswani19@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^3.4.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "supertest": "^2.0.1"
+  }
+}
